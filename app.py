@@ -5,8 +5,8 @@ import openai
 import os
 from PIL import Image
 import toml
-#api_key=st.secrets['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']
-#os.environ['openai.api_key'] = "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"
+#api_key=st.secrets['']
+#os.environ['openai.api_key'] = ""
 
 # Load the API key from the TOML file
 #st.write("Secret Key", st.secrets["openai.api_key"])
