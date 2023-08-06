@@ -1,4 +1,4 @@
-# Openaiintergrated_Streamlit
+# Openai_intergrated_Streamlit
 
 This is an demo of prompt generation using open ai api,for recipe generator.
 
